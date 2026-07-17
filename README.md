@@ -29,4 +29,10 @@ The solution is divided into logical steps:
 3. Analysis to answer each business question
 4. Summary of insights
 
-   
+# Final Insights Summary :
+From the analysis, we can conclude: 
+   1. Premium localities consistently show higher prices and rate per sqft
+   2. Ready-to-move and RERA-approved properties tend to command higher prices
+   3. Builder reputation significantly impacts property pricing
+   4. Larger homes are not always more expensive per sqft.
+   5. Apartments generally have higher rate per sqft than plots and floors
